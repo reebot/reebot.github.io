@@ -3,3 +3,8 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+.jekyll-plugins
+.jekyll-records
+
+Gemfile
+Gemfile.lock

@@ -1,7 +1,7 @@
 # Site settings
-title: Your Name
+title: Reevu Adhikary
 description: Personal website and portfolio
-author: Your Name
+author: Reevu
 
 # Build settings
 theme: minima
@@ -17,7 +17,7 @@ url: "https://reebot.github.io" # the base hostname & protocol, e.g. http://exam
 # Social media
 github_username: reebot
 linkedin_username: your-linkedin-username
-email: adhikaryreevu97@gmail.com
+email: adhikaryreevu97 [at] gmail.com
 
 # Collections
 collections:

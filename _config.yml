@@ -1,25 +1,33 @@
 # Site settings
-title: Reevu Adhikary
-description: Personal website and portfolio
-author: Reevu
+title: FinGalaxy
+description: A description.
+
+# Custom settings
 
 # Build settings
 theme: minima
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-paginate
   - jekyll-seo-tag
+
+header_pages:
+  - index.md
+  - projects.md
+  - blog.md
 
 # URLs
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://reebot.github.io" # the base hostname & protocol, e.g. http://example.com
 
 # Social media
-github_username: reebot
-linkedin_username: your-linkedin-username
-email: adhikaryreevu97 [at] gmail.com
 
 # Collections
 collections:
   projects:
     output: true
+
+
+
+# Navigation links
